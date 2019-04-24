@@ -10,3 +10,7 @@ https://geo-python.github.io/2018 (lesson 5)
 
 https://docs.qgis.org/testing/en/docs/user_manual/plugins/python_console.html
 
+## basics
+
+https://www.python-kurs.eu
+
