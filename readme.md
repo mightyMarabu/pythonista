@@ -14,3 +14,5 @@ https://docs.qgis.org/testing/en/docs/user_manual/plugins/python_console.html
 
 https://www.python-kurs.eu
 
+https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
+
